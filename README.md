@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [Social Proof Section by Earthyy](...)
+- Live Site URL: [Social Proof Section by Earthyy](https://earthyy-social-proof-section.netlify.app/)
 
 ## My process
 
